@@ -1,7 +1,7 @@
 ![Lines of code](https://img.shields.io/tokei/lines/github/smart-coder997/django_erp?style=plastic) ![GitHub Repo stars](https://img.shields.io/github/stars/smart-coder997/django_erp?style=social) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
 # sERPent - A Django ERP prototype
-Creating an Enterprise Resource Planner (ERP) software that may helps me managing my company. Currently WIP.
+Creating an Enterprise Resource Planner (ERP) software that may helps me managing my company. Currently WIP. 
 
 ## Environment setup and quick-start
 
