@@ -1,4 +1,4 @@
-![Lines of code](https://img.shields.io/tokei/lines/github/carloocchiena/django_erp?style=plastic) ![GitHub Repo stars](https://img.shields.io/github/stars/carloocchiena/django_erp?style=social) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+![Lines of code](https://img.shields.io/tokei/lines/github/smart-coder997/django_erp?style=plastic) ![GitHub Repo stars](https://img.shields.io/github/stars/smart-coder997/django_erp?style=social) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
 # sERPent - A Django ERP prototype
 Creating an Enterprise Resource Planner (ERP) software that may helps me managing my company. Currently WIP.
@@ -7,7 +7,7 @@ Creating an Enterprise Resource Planner (ERP) software that may helps me managin
 
 **About my prod env:** code has been build and tested on Django 4.0.2 and Python 3.8.8 running on Win11 machine.
 
-1. Clone the project: `git clone https://github.com/carloocchiena/django_erp.git`.
+1. Clone the project: `git clone https://github.com/smart-coder997/django-erp.git`.
 2. Create a virtual environment (conda `conda create -n my_env pip python=3.8`) (python `python3 -m venv my_env`).
 3. Activate your virtual environment: (conda`conda activate my_env`) (Linux/MacOS `source my_env/bin/activate`) (Windows `source my_env/Scripts/activate`).
 4. Install requirements.txt: `pip install -r requirements.txt`.
